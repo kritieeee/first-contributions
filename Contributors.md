@@ -783,6 +783,7 @@
 - [czc](https://github.com/czc-gd)
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Zac Nation](https://github.com/zacnation)
+- [Kriti Thacker @DevSocPI]
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
